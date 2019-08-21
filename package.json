@@ -1,6 +1,6 @@
 {
   "name": "shadowizard",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Add awesome shadows for the non designer",
   "main": "index.js",
   "scripts": {
