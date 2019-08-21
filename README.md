@@ -1,6 +1,6 @@
 # Shadowizard
 
-Get the parfect shadows every time for the non designer.
+Get the perfect shadows every time for the non designer.
 
 # Installation
 
