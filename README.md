@@ -17,6 +17,13 @@ shadowizard({
 });
 ```
 
+Then...
+
+Add the shadowizard class to the element you want a shadow add to.
+```
+<img src="image.jpg" class="shadowizard">
+```
+
 ## Options
 
 Shadowizard support 2 options, both of which are optional:
